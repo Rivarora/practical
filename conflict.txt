@@ -1,2 +1,5 @@
 inital content 
+
 changess in conflict.txt
+
+changes done in conflict.txt
